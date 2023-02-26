@@ -1,2 +1,2 @@
-print("hello")
-print("branch test")
+a = [1,2,6,3,5,2,8]
+print(a)
